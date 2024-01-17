@@ -53,10 +53,9 @@ logo=("""\033[1;37m
 \033[1;33m██  ██  ██   ██ ██  ██ ██  ██ ██  ██   ██ 
 \033[1;33m██   ██ ██   ██ ██   ████ ██   ██ ██   ██                                                                                                                                                                    
 ------------------------------------------------
-    \033[1;35m  I will show you speed 
+    \033[1;35m  I will show you speed \033[1;37m
 -----------------------------------------------               
-\033[1;37m
-Owner       -        Kanxo
+\033[1;37mOwner       -        Kanxo
 Github      -        KANXA-BOSS
 network     -        Data/wif
 status      -        paid
